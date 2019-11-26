@@ -27,28 +27,28 @@ public class FractionTest {
         assertEquals(fraction.toString(), "1/2");
     }
 
-    @Test
-    public void testGetRealValue() {
-        assertEquals(fraction.getRealValue(), 0.5);
-    }
+//    @Test
+//    public void testGetRealValue() {
+//        assertEquals(fraction.getRealValue(), 0.5);
+//    }
 
-    @Test
-    public void testReduce() {
-
-    }
-
-    @Test
-    public void testAdd() {
-
-    }
-
-    @Test
-    public void testEquals() {
-
-    }
-
-    @Test
-    public void testCompareTo() {
-
-    }
+//    @Test
+//    public void testReduce() {
+//
+//    }
+//
+//    @Test
+//    public void testAdd() {
+//
+//    }
+//
+//    @Test
+//    public void testEquals() {
+//
+//    }
+//
+//    @Test
+//    public void testCompareTo() {
+//
+//    }
 }
